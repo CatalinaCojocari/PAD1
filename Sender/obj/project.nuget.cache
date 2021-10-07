@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYi7FfFjNbPCc5fm0GKji/WdHfg33VcWTvHR90VU1HzD3NX2+Iqo8HzNjU0nhSYJ0+jvE8MNlyqJaEXyJ6d+Og==",
+  "success": true,
+  "projectFilePath": "D:\\UTM\\IV\\PAD\\Agent Grpc\\Sender\\Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cojoc\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\cojoc\\.nuget\\packages\\grpc\\2.41.0\\grpc.2.41.0.nupkg.sha512",
+    "C:\\Users\\cojoc\\.nuget\\packages\\grpc.core\\2.41.0\\grpc.core.2.41.0.nupkg.sha512",
+    "C:\\Users\\cojoc\\.nuget\\packages\\grpc.core.api\\2.41.0\\grpc.core.api.2.41.0.nupkg.sha512",
+    "C:\\Users\\cojoc\\.nuget\\packages\\grpc.net.client\\2.39.0\\grpc.net.client.2.39.0.nupkg.sha512",
+    "C:\\Users\\cojoc\\.nuget\\packages\\grpc.net.common\\2.39.0\\grpc.net.common.2.39.0.nupkg.sha512",
+    "C:\\Users\\cojoc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\cojoc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cojoc\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

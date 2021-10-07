@@ -1,0 +1,11 @@
+D:\UTM\IV\PAD\Agent Grpc\Common\bin\Debug\net5.0\Common.deps.json
+D:\UTM\IV\PAD\Agent Grpc\Common\bin\Debug\net5.0\Common.dll
+D:\UTM\IV\PAD\Agent Grpc\Common\bin\Debug\net5.0\ref\Common.dll
+D:\UTM\IV\PAD\Agent Grpc\Common\bin\Debug\net5.0\Common.pdb
+D:\UTM\IV\PAD\Agent Grpc\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\IV\PAD\Agent Grpc\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\UTM\IV\PAD\Agent Grpc\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\UTM\IV\PAD\Agent Grpc\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\UTM\IV\PAD\Agent Grpc\Common\obj\Debug\net5.0\Common.dll
+D:\UTM\IV\PAD\Agent Grpc\Common\obj\Debug\net5.0\ref\Common.dll
+D:\UTM\IV\PAD\Agent Grpc\Common\obj\Debug\net5.0\Common.pdb

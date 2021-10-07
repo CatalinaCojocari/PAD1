@@ -1,0 +1,24 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcAgent";
+
+package GrpcAgent;
+
+service Publisher {
+  rpc PublishMessage (PublishRequest) returns (PublishReply);
+}
+
+message PublishRequest {
+  string topic = 1;
+  string content = 2;
+}
+
+message PublishReply {
+  bool isSuccess = 1;
+}
+
+
+
+// in proto descriem un fel de modele si de serviciu, 
+// apoi dupa compilare se creeaza clasa de baza a acestui serviciu,
+// implementam acest serviciu intr-un serviciu
